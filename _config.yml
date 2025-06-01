@@ -22,7 +22,7 @@ repository               : "dadadawt.github.io/leowangtong.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "500x300.png"
+  avatar           : "wangtong.jpg"
   name             : "Tong Wang"
   pronouns         : # example: "she/her"  
   bio              : "           "
