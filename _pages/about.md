@@ -9,8 +9,6 @@ redirect_from:
 
 I am a PhD student in the [Computer Vision Lab](https://aimerykong.github.io/group.html) on the faculty of [FST](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), advised by [Prof. Shu Kong](https://aimerykong.github.io/index.html). 
 
-Research
-======
 </tbody></table>
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
               <tr>
